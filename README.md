@@ -129,7 +129,8 @@ Lëtzebuergesch - ok, loosst et sinn
 
 Malagasy - okay, avelao
 
-Melayu - okay, biarlah
+Melayu - okay, biarlah![ok jpg d20b1f08cde1afe8858c95c2a3b80a38](https://github.com/getolro/product_yuras/assets/150126775/37e933fe-3862-4cd3-9cae-591c46ffc44e)
+
 
 മലയാളം - ശരി, ഇരിക്കട്ടെ
 މޯލްޑިވިއަން - އޯކޭ، ދޫކޮށްލާ
