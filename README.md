@@ -1,5 +1,7 @@
 # calculator_yuras
 Русский - ладно, пусть будет
+
+
 Azərbaycan - yaxşı, olsun
 Aymara - ok, ukhamäpan
 Shqiptare - ok, le të jetë
