@@ -1,4 +1,4 @@
-# product_yuras
+# calculator_yuras
 Русский - ладно, пусть будет
 Azərbaycan - yaxşı, olsun
 Aymara - ok, ukhamäpan
