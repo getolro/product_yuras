@@ -129,7 +129,7 @@ Lëtzebuergesch - ok, loosst et sinn
 
 Malagasy - okay, avelao
 
-Melayu - okay, biarlah![ok jpg d20b1f08cde1afe8858c95c2a3b80a38](https://github.com/getolro/product_yuras/assets/150126775/37e933fe-3862-4cd3-9cae-591c46ffc44e)
+Melayu - okay, biarlah
 
 
 മലയാളം - ശരി, ഇരിക്കട്ടെ
@@ -300,5 +300,5 @@ v3 - полный куб,
 
 
 Этот калькулятор написан на основе шаблона, однотипности для удобности чтения и разбора кода.
-Спасибо, за внимание и ![ok jpg d20b1f08cde1afe8858c95c2a3b80a38](https://github.com/getolro/product_yuras/assets/150126775/6d1677bd-dcb6-476e-8d5e-78d7e32f7a31)
-время потраченное на изучения этого материала
+Спасибо, за внимание и время потраченное на изучения этого материала
+![ok jpg d20b1f08cde1afe8858c95c2a3b80a38](https://github.com/getolro/product_yuras/assets/150126775/b83104d7-8cee-40e7-9c72-cc35eaad4de9)
